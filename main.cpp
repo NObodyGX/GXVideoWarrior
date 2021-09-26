@@ -1,6 +1,6 @@
 #include <QApplication>
 
-#include "src/windows/mainwindow.h"
+#include "src/windows/main_window.h"
 
 int main(int argc, char *argv[])
 {
